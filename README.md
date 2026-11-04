@@ -1,0 +1,1 @@
+this is the read me for the 2026 bobathon project
